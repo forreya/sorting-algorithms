@@ -21,6 +21,7 @@ Bubble Sort is a simple sorting algorithm that repeatedly steps through the list
 ## Advantages
 1. Simple and easy to implement.
 2. In-place sorting; no extra memory needed.
+3. Stable, equal elements maintain their original order.
 
 ## Disadvantages
 1. Inefficient for large datasets O(n^2). Other sorting algorithms like Merge Sort or Quick Sort are much faster on average.

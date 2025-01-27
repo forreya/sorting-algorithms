@@ -28,7 +28,7 @@ This path allows python to know what the top-level directory is (in this case, s
 
 #### For Arrays
 - [x] Bubble Sort
-- [ ] Selection Sort
+- [x] Selection Sort
 - [ ] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
