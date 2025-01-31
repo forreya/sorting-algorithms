@@ -29,7 +29,7 @@ This path allows python to know what the top-level directory is (in this case, s
 #### For Arrays
 - [x] Bubble Sort
 - [x] Selection Sort
-- [ ] Insertion Sort
+- [x] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort (uses a binary heap implemented in an array)
