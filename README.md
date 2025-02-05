@@ -30,7 +30,7 @@ This path allows python to know what the top-level directory is (in this case, s
 - [x] Bubble Sort
 - [x] Selection Sort
 - [x] Insertion Sort
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort (uses a binary heap implemented in an array)
 - [ ] Tim Sort (Python’s built-in algorithm)
